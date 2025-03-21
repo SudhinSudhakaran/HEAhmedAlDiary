@@ -659,7 +659,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.016;
+				MARKETING_VERSION = 1.017;
 				PRODUCT_BUNDLE_IDENTIFIER = org.evillage.HEAhmedDiary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "HEAhmedAlSuwaidi/HEAhmedAlSuwaidi-Bridging-Header.h";
@@ -687,7 +687,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.016;
+				MARKETING_VERSION = 1.017;
 				PRODUCT_BUNDLE_IDENTIFIER = org.evillage.HEAhmedDiary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "HEAhmedAlSuwaidi/HEAhmedAlSuwaidi-Bridging-Header.h";
